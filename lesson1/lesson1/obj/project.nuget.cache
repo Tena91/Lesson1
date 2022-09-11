@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0tAiZALiy/ayg8aDkQsIiyUE5pL1JDH9nkTm5njiDvgqI+7EZiPB4nJFyBzJ3ys3uqEY4lieykWlDUBRzMKrg==",
+  "success": true,
+  "projectFilePath": "/Users/anastasiasarafanova/Documents/GitHub/Lesson1/lesson1/lesson1/lesson1.csproj",
+  "expectedPackageFiles": [
+    "/Users/anastasiasarafanova/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/anastasiasarafanova/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/anastasiasarafanova/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
